@@ -1,0 +1,205 @@
+@font-face {
+    font-family: roboto-regular;
+    src: url(assets/fonts/roboto/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: montserrat;
+    src: url(../fonts/montserrat/Montserrat-Light.otf);
+}
+@font-face {
+    font-family: montserrat-bold;
+    src: url(../fonts/montserrat/Montserrat-Bold.otf);
+}
+.bg-nh{
+    background-color: #008fee;
+    color: white;
+}
+.bg-nh-darker{
+    background-color: #007fde;
+    color: white;
+}
+h1,h2,h3,h4,h5,h6,strong{
+    font-family: montserrat-bold;
+}
+p,span,a,li{
+    font-family: montserrat;
+}
+.text{
+    text-decoration: none;
+    color: rgba(0,0,0, 0.6) ;
+}
+.nb{
+    font-size: 11px;
+}
+.top-nav{
+    font-size: 12px;
+}
+footer h6{
+    color: #939393;
+}
+footer ul li, footer p{
+    font-size: 13px;
+    color: rgba(255,255,255,0.7);
+    font-family:Arial, Helvetica, sans-serif;
+}
+footer span{
+    font-size: 11px;
+}
+footer{
+    background-color: #303030;
+}
+.footer-bottom{
+    font-size: 11px;
+}
+.subscribe input{
+    border-top-left-radius: 40px 30px;
+    border-bottom-left-radius: 40px 30px;
+}
+.subscribe a{
+    border-top-right-radius: 40px 30px;
+    border-bottom-right-radius: 40px 30px;
+    border-top-left-radius: 40px 30px;
+    border-bottom-left-radius: 40px 30px;
+    /* box-shadow: inset -2px 0px 0px 0px white; */
+}
+.grayscale img{
+    /* min-height: 30px; */
+    filter: grayscale(100%);
+    /* border: 2px gray solid; */
+}
+.grayscale img:hover{
+    /* min-height: 30px; */
+    filter: grayscale(0%);
+    /* border: 2px gray solid; */
+}
+.share{
+    background-color: #f7f7f7;
+}
+.contact{
+    color: white;
+    background-color: #00a2f3;
+}
+.live-chat{
+    margin-left: 20px;
+}
+.pricing-plan{
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+    border: 0.5px solid rgba(0,0,0, 0.1);
+    /* width:25%; */
+    padding: 0;
+    height: auto;
+}
+.pricing-plan .pricing-header{
+    padding: 10px 0 10px 0;
+    border-bottom: 0.5px solid rgba(0,0,0, 0.1);
+}
+.pricing-plan .pricing-price{
+    padding: 10px 0 10px 0;
+}
+.pricing-plan .pricing-price .first-price{
+    font-family: montserrat-bold;
+    font-weight: bold;
+    font-size:40px;
+}
+/* .pricing-plan .pricing-price .actual-price{
+    font-size:25px;
+} */
+.pricing-plan .pricing-price .actual-price{
+    font-family: montserrat;
+    font-size:32px;
+}
+.pricing-plan .pricing-price .scribble{
+    text-decoration: line-through; 
+}
+.pricing-plan .pricing-member{
+    padding: 8px 0 8px 0;
+    border-top: 0.5px solid rgba(0,0,0, 0.1);
+    border-bottom: 0.5px solid rgba(0,0,0, 0.1);
+}
+.pricing-plan .pricing-body{
+    padding: 25px 0 25px 0;
+}
+.pricing-plan .pricing-body ul{
+    padding-bottom: 10px;
+}
+.pricing-active-plan{
+    position:relative;
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+    border: 0.5px solid #007fde;
+    /* width:25%; */
+    padding: 0;
+}
+.pricing-active-plan .pricing-header{
+    padding: 10px 0 10px 0;
+    border-bottom: 2px solid #008fee;
+    background-color: #008fee;
+}
+.pricing-active-plan .pricing-price{
+    padding: 10px 0 10px 0;
+    background-color: #008fee;
+}
+.pricing-active-plan .pricing-price .first-price{
+    font-family: montserrat-bold;
+    font-weight: bold;
+    font-size:40px;
+}
+/* .pricing-plan .pricing-price .actual-price{
+    font-size:25px;
+} */
+.pricing-active-plan .pricing-price .actual-price{
+    font-family: montserrat;
+    font-size:32px;
+}
+.pricing-active-plan .pricing-price .scribble{
+    text-decoration: line-through; 
+}
+.pricing-active-plan .pricing-member{
+    padding: 8px 0 8px 0;
+    border-top: 1px solid #008fee;
+    border-bottom: 1px solid #008fee;
+    background-color: #007fde;
+
+}
+.pricing-active-plan .pricing-body{
+    padding: 25px 0 25px 0;
+}
+.pricing-active-plan .pricing-body ul{
+    padding-bottom: 10px;
+}
+.top-left-sticky{
+        top: -8px;
+        left: -8px;
+        position:absolute;
+        /* margin-left: -150px;
+        margin-top: -10px; */
+        z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+    p{
+        font-size: 0.8rem;
+    }
+    .top-nav{
+        text-align: center;
+    }
+    .right-top-nav{
+        text-align: center;
+    }
+    .img-logos{
+        width: 6.8em;
+    }
+    .live-chat{
+        margin-left: 3px;
+    }
+    col img{
+        width: 100px;
+    }
+    .image-content{
+        margin-top: 25px;
+        width: 100%;
+    }
+    /* .pricing-plan{
+        width: 100%;
+    } */
+  }
