@@ -10,6 +10,9 @@
     font-family: montserrat-bold;
     src: url(../fonts/montserrat/Montserrat-Bold.otf);
 }
+*{
+overflow-y: hidden;
+}
 .bg-nh{
     background-color: #008fee;
     color: white;
