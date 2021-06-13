@@ -235,38 +235,37 @@
         <div class="container text-center">
             <span class="fs-2">Semua Paket Hosting Sudah Termasuk</span>
             <div class="row mt-5">
-                <div class="col-6 col-md-4">
+                <div class="col-6 col-md-4 mb-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_PHP Semua Versi.svg" alt="">
                     <h4>PHP Semua Versi</h4>
                     <p>Pilih mulai dari versi PHP 5.3 s/d PHP 7.<br>
                     Ubah sesuka Anda!</p>
                 </div>
-                <div class="col-6 col-md-4">
+                <div class="col-6 col-md-4 mb-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_My SQL.svg" alt="">
                     <h4>MySQL Versi 5.6</h4>
                     <p>Nikmati MySQL versi terbaru, tercepat dan<br>
                     kaya akan fitur.</p>
                 </div>
-                <div class="col-6 col-md-4">
+                <div class="col-6 col-md-4 mb-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_My SQL.svg" alt="">
                     <h4>Panel Hosting cPanel</h4>
                     <p>Kelola website dengan panel canggih yang familiar di hati Anda.</p>
                 </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-6 col-md-4">
+            
+                <div class="col-6 col-md-4 mb-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_garansi uptime.svg" alt="">
                     <h4>Garansi Uptime 99.9%</h4>
                     <p>Data center yang mendukung kelangsungan<br>
                     website Anda 24/7</p>
                 </div>
-                <div class="col-6 col-md-4">
+                <div class="col-6 col-md-4 mb-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_InnoDB.svg" alt="">
                     <h4>Database InnoDB Unlimited</h4>
                     <p>Jumlah dan ukuran database yang tumbuh<br>
                     sesuai kebutuhan Anda.</p>
                 </div>
-                <div class="col-6 col-md-4">
+                <div class="col-6 col-md-4 mb-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_My SQL remote.svg" alt="">
                     <h4>Wildcard Remote MySQL</h4>
                     <p>Mendukung s/d 25 max_user_connections dan 100 max_connections.</p>
