@@ -269,7 +269,7 @@
                 <div class="col-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_My SQL remote.svg" alt="">
                     <h4>Wildcard Remote MySQL</h4>
-                    <p class="hidden-overflow">Mendukung s/d 25 max_user_connections dan 100 max_connections.</p>
+                    <p>Mendukung s/d 25 max_user_connections dan 100 max_connections.</p>
                 </div>
             </div>
         </div>

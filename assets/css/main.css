@@ -10,7 +10,7 @@
     font-family: montserrat-bold;
     src: url(../fonts/montserrat/Montserrat-Bold.otf);
 }
-hidden-overflow{
+#includes{
     overflow-x: hidden;
 }
 .bg-nh{
