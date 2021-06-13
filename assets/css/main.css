@@ -183,6 +183,9 @@ footer{
     p{
         font-size: 0.8rem;
     }
+    .txt-logos{
+        font-size: 11px;
+    }
     .top-nav{
         text-align: center;
     }
