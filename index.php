@@ -119,13 +119,13 @@
             </div>
             <div class="row justify-content-center pb-5">
                 <div class="col-md-3 col-3 my-auto text-center">
-                    <span class="fs-5 txt-logos">PHP Zenguard Downloader</span>
+                    <span class="fs-5 hidden-overflow">PHP Zenguard Downloader</span>
                 </div>
                 <div class="col-md-3 col-3 my-auto text-center">
-                    <span class="fs-5 txt-logos">PHP Composer</span>
+                    <span class="fs-5 hidden-overflow">PHP Composer</span>
                 </div>
                 <div class="col-md-3 col-3 my-auto text-center">
-                    <span class="fs-5 txt-logos">PHP ionCube Loader</span>
+                    <span class="fs-5 hidden-overflow">PHP ionCube Loader</span>
                 </div>
             </div>
         </div>

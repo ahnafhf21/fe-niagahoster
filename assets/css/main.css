@@ -10,6 +10,9 @@
     font-family: montserrat-bold;
     src: url(../fonts/montserrat/Montserrat-Bold.otf);
 }
+hidden-overflow{
+    overflow-x: hidden;
+}
 .bg-nh{
     background-color: #008fee;
     color: white;
@@ -178,9 +181,6 @@ footer{
 }
 @media only screen and (max-width: 800px) {
     p{
-        font-size: 0.8rem;
-    }
-    .fs-5{
         font-size: 0.8rem;
     }
     .txt-logos{
