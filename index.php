@@ -119,13 +119,13 @@
             </div>
             <div class="row justify-content-center pb-5">
                 <div class="col-md-3 col-3 my-auto text-center">
-                    <span class="fs-5 hidden-overflow">PHP Zenguard Downloader</span>
+                    <span class="fs-5">PHP Zenguard Downloader</span>
                 </div>
                 <div class="col-md-3 col-3 my-auto text-center">
-                    <span class="fs-5 hidden-overflow">PHP Composer</span>
+                    <span class="fs-5 ">PHP Composer</span>
                 </div>
                 <div class="col-md-3 col-3 my-auto text-center">
-                    <span class="fs-5 hidden-overflow">PHP ionCube Loader</span>
+                    <span class="fs-5 ">PHP ionCube Loader</span>
                 </div>
             </div>
         </div>
@@ -269,7 +269,7 @@
                 <div class="col-4">
                     <img width="50px" src="assets/svg/icon PHP Hosting_My SQL remote.svg" alt="">
                     <h4>Wildcard Remote MySQL</h4>
-                    <p>Mendukung s/d 25 max_user_connections dan 100 max_connections.</p>
+                    <p class="hidden-overflow">Mendukung s/d 25 max_user_connections dan 100 max_connections.</p>
                 </div>
             </div>
         </div>
