@@ -11,7 +11,7 @@
     src: url(../fonts/montserrat/Montserrat-Bold.otf);
 }
 *{
-overflow-y: hidden;
+overflow-x: hidden;
 }
 .bg-nh{
     background-color: #008fee;
